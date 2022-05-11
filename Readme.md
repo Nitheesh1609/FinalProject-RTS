@@ -4,11 +4,17 @@
 ##File included
 
   ./project4/project4.ino
+  
   ./project4/scheduler.cpp
+  
   ./project4/scheduler.h
+  
   ./RTS-Aperiodic-Evaluation.xlsx
+  
   ./RTS.pdf
+  
   ./Report.pdf
+  
   ./Recording.mp4
   
 1. Navigate to the project4 directory.
