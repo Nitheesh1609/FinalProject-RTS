@@ -15,7 +15,7 @@
   
   ./Report.pdf
   
-  ./Recording.mp4
+  ./RTS-FinalProject-Demo.mp4
   
 1. Navigate to the project4 directory.
 2. Open the project4.ino file with Arduino IDE.
@@ -23,4 +23,4 @@
 4. You can also test for a particular periodic load factor by changing the LOADFACTOR in the project4.ino file.
 5. The RTS xls file has the XLS evluation framework for calculating the response time of each periodic tasks.
 6. The detailed explation of our implementation and evaluation is explained in the Report.pdf file.
-7. The presentation and demo of our project is recorded in the Recording.mp4 file.
+7. The presentation and demo of our project is recorded in the RTS-FinalProject-Demo.mp4 file.
